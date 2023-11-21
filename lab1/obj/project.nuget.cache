@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EUX/zKsGqw5gBqtatl4mWCEWCC05UuBZpMpIRZyOTQISJb/IMXwkZw2MSdi9FUfliXL/QooXwRC+Q551t06T0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\ACG_1\\ACG_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
