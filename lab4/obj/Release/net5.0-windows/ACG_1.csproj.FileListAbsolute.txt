@@ -1,0 +1,109 @@
+G:\KG\ACG_1\bin\Release\net5.0-windows\ACG_1.exe
+G:\KG\ACG_1\bin\Release\net5.0-windows\ACG_1.deps.json
+G:\KG\ACG_1\bin\Release\net5.0-windows\ACG_1.runtimeconfig.json
+G:\KG\ACG_1\bin\Release\net5.0-windows\ACG_1.runtimeconfig.dev.json
+G:\KG\ACG_1\bin\Release\net5.0-windows\ACG_1.dll
+G:\KG\ACG_1\bin\Release\net5.0-windows\ref\ACG_1.dll
+G:\KG\ACG_1\bin\Release\net5.0-windows\ACG_1.pdb
+G:\KG\ACG_1\bin\Release\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+G:\KG\ACG_1\bin\Release\net5.0-windows\System.Drawing.Common.dll
+G:\KG\ACG_1\bin\Release\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+G:\KG\ACG_1\bin\Release\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+G:\KG\ACG_1\bin\Release\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+G:\KG\ACG_1\obj\Release\net5.0-windows\MainWindow.g.cs
+G:\KG\ACG_1\obj\Release\net5.0-windows\App.g.cs
+G:\KG\ACG_1\obj\Release\net5.0-windows\ACG_1_MarkupCompile.cache
+G:\KG\ACG_1\obj\Release\net5.0-windows\ACG_1_MarkupCompile.lref
+G:\KG\ACG_1\obj\Release\net5.0-windows\MainWindow.baml
+G:\KG\ACG_1\obj\Release\net5.0-windows\ACG_1.g.resources
+G:\KG\ACG_1\obj\Release\net5.0-windows\ACG_1.GeneratedMSBuildEditorConfig.editorconfig
+G:\KG\ACG_1\obj\Release\net5.0-windows\ACG_1.AssemblyInfoInputs.cache
+G:\KG\ACG_1\obj\Release\net5.0-windows\ACG_1.AssemblyInfo.cs
+G:\KG\ACG_1\obj\Release\net5.0-windows\ACG_1.csproj.CoreCompileInputs.cache
+G:\KG\ACG_1\obj\Release\net5.0-windows\ACG_1.csproj.CopyComplete
+G:\KG\ACG_1\obj\Release\net5.0-windows\ACG_1.dll
+G:\KG\ACG_1\obj\Release\net5.0-windows\ref\ACG_1.dll
+G:\KG\ACG_1\obj\Release\net5.0-windows\ACG_1.pdb
+G:\KG\ACG_1\obj\Release\net5.0-windows\ACG_1.genruntimeconfig.cache
+G:\KG\ACG_1\obj\Release\net5.0-windows\ACG_1.csprojAssemblyReference.cache
+C:\Users\ASUS N580\source\repos\ACG_3\bin\Release\net5.0-windows\ACG_1.exe
+C:\Users\ASUS N580\source\repos\ACG_3\bin\Release\net5.0-windows\ACG_1.deps.json
+C:\Users\ASUS N580\source\repos\ACG_3\bin\Release\net5.0-windows\ACG_1.runtimeconfig.json
+C:\Users\ASUS N580\source\repos\ACG_3\bin\Release\net5.0-windows\ACG_1.runtimeconfig.dev.json
+C:\Users\ASUS N580\source\repos\ACG_3\bin\Release\net5.0-windows\ACG_1.dll
+C:\Users\ASUS N580\source\repos\ACG_3\bin\Release\net5.0-windows\ref\ACG_1.dll
+C:\Users\ASUS N580\source\repos\ACG_3\bin\Release\net5.0-windows\ACG_1.pdb
+C:\Users\ASUS N580\source\repos\ACG_3\bin\Release\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS N580\source\repos\ACG_3\bin\Release\net5.0-windows\System.Drawing.Common.dll
+C:\Users\ASUS N580\source\repos\ACG_3\bin\Release\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS N580\source\repos\ACG_3\bin\Release\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ASUS N580\source\repos\ACG_3\bin\Release\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ASUS N580\source\repos\ACG_3\obj\Release\net5.0-windows\MainWindow.g.cs
+C:\Users\ASUS N580\source\repos\ACG_3\obj\Release\net5.0-windows\App.g.cs
+C:\Users\ASUS N580\source\repos\ACG_3\obj\Release\net5.0-windows\ACG_1_MarkupCompile.cache
+C:\Users\ASUS N580\source\repos\ACG_3\obj\Release\net5.0-windows\ACG_1_MarkupCompile.lref
+C:\Users\ASUS N580\source\repos\ACG_3\obj\Release\net5.0-windows\MainWindow.baml
+C:\Users\ASUS N580\source\repos\ACG_3\obj\Release\net5.0-windows\ACG_1.g.resources
+C:\Users\ASUS N580\source\repos\ACG_3\obj\Release\net5.0-windows\ACG_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS N580\source\repos\ACG_3\obj\Release\net5.0-windows\ACG_1.AssemblyInfoInputs.cache
+C:\Users\ASUS N580\source\repos\ACG_3\obj\Release\net5.0-windows\ACG_1.AssemblyInfo.cs
+C:\Users\ASUS N580\source\repos\ACG_3\obj\Release\net5.0-windows\ACG_1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS N580\source\repos\ACG_3\obj\Release\net5.0-windows\ACG_1.csproj.CopyComplete
+C:\Users\ASUS N580\source\repos\ACG_3\obj\Release\net5.0-windows\ACG_1.dll
+C:\Users\ASUS N580\source\repos\ACG_3\obj\Release\net5.0-windows\ref\ACG_1.dll
+C:\Users\ASUS N580\source\repos\ACG_3\obj\Release\net5.0-windows\ACG_1.pdb
+C:\Users\ASUS N580\source\repos\ACG_3\obj\Release\net5.0-windows\ACG_1.genruntimeconfig.cache
+C:\Users\ASUS N580\source\repos\ACG_3\obj\Release\net5.0-windows\ACG_1.csproj.AssemblyReference.cache
+C:\Users\ASUS N580\source\repos\ACG_4\bin\Release\net5.0-windows\ACG_1.exe
+C:\Users\ASUS N580\source\repos\ACG_4\bin\Release\net5.0-windows\ACG_1.deps.json
+C:\Users\ASUS N580\source\repos\ACG_4\bin\Release\net5.0-windows\ACG_1.runtimeconfig.json
+C:\Users\ASUS N580\source\repos\ACG_4\bin\Release\net5.0-windows\ACG_1.runtimeconfig.dev.json
+C:\Users\ASUS N580\source\repos\ACG_4\bin\Release\net5.0-windows\ACG_1.dll
+C:\Users\ASUS N580\source\repos\ACG_4\bin\Release\net5.0-windows\ref\ACG_1.dll
+C:\Users\ASUS N580\source\repos\ACG_4\bin\Release\net5.0-windows\ACG_1.pdb
+C:\Users\ASUS N580\source\repos\ACG_4\bin\Release\net5.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS N580\source\repos\ACG_4\bin\Release\net5.0-windows\System.Drawing.Common.dll
+C:\Users\ASUS N580\source\repos\ACG_4\bin\Release\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS N580\source\repos\ACG_4\bin\Release\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ASUS N580\source\repos\ACG_4\bin\Release\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ASUS N580\source\repos\ACG_4\obj\Release\net5.0-windows\ACG_1.csproj.AssemblyReference.cache
+C:\Users\ASUS N580\source\repos\ACG_4\obj\Release\net5.0-windows\MainWindow.g.cs
+C:\Users\ASUS N580\source\repos\ACG_4\obj\Release\net5.0-windows\App.g.cs
+C:\Users\ASUS N580\source\repos\ACG_4\obj\Release\net5.0-windows\ACG_1_MarkupCompile.cache
+C:\Users\ASUS N580\source\repos\ACG_4\obj\Release\net5.0-windows\ACG_1_MarkupCompile.lref
+C:\Users\ASUS N580\source\repos\ACG_4\obj\Release\net5.0-windows\MainWindow.baml
+C:\Users\ASUS N580\source\repos\ACG_4\obj\Release\net5.0-windows\ACG_1.g.resources
+C:\Users\ASUS N580\source\repos\ACG_4\obj\Release\net5.0-windows\ACG_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS N580\source\repos\ACG_4\obj\Release\net5.0-windows\ACG_1.AssemblyInfoInputs.cache
+C:\Users\ASUS N580\source\repos\ACG_4\obj\Release\net5.0-windows\ACG_1.AssemblyInfo.cs
+C:\Users\ASUS N580\source\repos\ACG_4\obj\Release\net5.0-windows\ACG_1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS N580\source\repos\ACG_4\obj\Release\net5.0-windows\ACG_1.csproj.CopyComplete
+C:\Users\ASUS N580\source\repos\ACG_4\obj\Release\net5.0-windows\ACG_1.dll
+C:\Users\ASUS N580\source\repos\ACG_4\obj\Release\net5.0-windows\ref\ACG_1.dll
+C:\Users\ASUS N580\source\repos\ACG_4\obj\Release\net5.0-windows\ACG_1.pdb
+C:\Users\ASUS N580\source\repos\ACG_4\obj\Release\net5.0-windows\ACG_1.genruntimeconfig.cache
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\obj\Release\net5.0-windows\ACG_1.dll
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\obj\Release\net5.0-windows\ACG_1.pdb
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\obj\Release\net5.0-windows\ACG_1.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\obj\Release\net5.0-windows\MainWindow.g.cs
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\obj\Release\net5.0-windows\App.g.cs
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\obj\Release\net5.0-windows\ACG_1_MarkupCompile.cache
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\obj\Release\net5.0-windows\ACG_1_MarkupCompile.lref
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\bin\Release\net5.0-windows\ACG_1.exe
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\bin\Release\net5.0-windows\ACG_1.deps.json
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\bin\Release\net5.0-windows\ACG_1.runtimeconfig.json
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\bin\Release\net5.0-windows\ACG_1.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\bin\Release\net5.0-windows\ACG_1.dll
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\bin\Release\net5.0-windows\ACG_1.pdb
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\bin\Release\net5.0-windows\StbImageSharp.dll
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\bin\Release\net5.0-windows\System.Drawing.Common.dll
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\obj\Release\net5.0-windows\MainWindow.baml
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\obj\Release\net5.0-windows\ACG_1.g.resources
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\obj\Release\net5.0-windows\ACG_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\obj\Release\net5.0-windows\ACG_1.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\obj\Release\net5.0-windows\ACG_1.AssemblyInfo.cs
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\obj\Release\net5.0-windows\ACG_1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\obj\Release\net5.0-windows\ACG_1.csproj.CopyComplete
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\obj\Release\net5.0-windows\refint\ACG_1.dll
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\obj\Release\net5.0-windows\ACG_1.genruntimeconfig.cache
+C:\Users\Asus\Desktop\ACG_4final\ACG_4\obj\Release\net5.0-windows\ref\ACG_1.dll

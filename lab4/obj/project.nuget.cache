@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3TdaL37mhcovudltG1aa7w706TbugZgPrQbatmGpPumPsQV/pPEjXxiq3/Yl/dZa4d0oVB6cXh2H8plFb/lU1w==",
+  "success": true,
+  "projectFilePath": "D:\\!Studing\\4 Course\\Algorithms Computer Craphics (AKG)\\ACG_4final\\ACG_4final\\ACG_4\\ACG_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\garku\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\garku\\.nuget\\packages\\stbimagesharp\\2.27.13\\stbimagesharp.2.27.13.nupkg.sha512",
+    "C:\\Users\\garku\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
